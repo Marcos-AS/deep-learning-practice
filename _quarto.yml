@@ -2,6 +2,10 @@ project:
   type: website
   output-dir: docs
 
+kernels:
+  python3:
+    path: python3
+
 website:
   title: "Deep-Learning"
   navbar:
